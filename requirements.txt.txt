@@ -1,0 +1,6 @@
+cv2
+tensorflow
+torch
+torchvision
+Flask
+flask_cors
